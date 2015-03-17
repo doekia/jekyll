@@ -201,13 +201,13 @@ pre {
 #pane {
     // background-image: $background-image-pane;
     background-color: #6B8D9F;
-    background-color: rgba(20, 50, 90, 0.40);
+    background-color: rgba(20, 70, 110, 0.50);
     max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
     max-width:         calc(800px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    border: 20px solid #fff; /* Fall back, not used in fiddle */
-    border: 20px solid rgba(255, 255, 255, .25);
+    border: 15px solid #fff; /* Fall back, not used in fiddle */
+    border: 15px solid rgba(255, 255, 255, .25);
     border-radius: 15px;
     padding: $spacing_unit;
 }
