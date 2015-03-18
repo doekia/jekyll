@@ -114,21 +114,6 @@ a {
         text-decoration: underline;
     }
 }
-#pane a {
-    color: $brand-color;
-   /*
-    text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
-    &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
-    */
-}
 
 .brand-color { color: $brand-color; }
 
@@ -216,7 +201,10 @@ pre {
     border: 15px solid rgba(255, 255, 255, .25);
     border-radius: 15px;
     padding: $spacing_unit;
+
+    a { color: $brand-color; }
 }
+
 
 
 
