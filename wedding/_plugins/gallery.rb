@@ -1,4 +1,3 @@
-require 'pry'
 # This plugin is used to generate a photo gallery from a given description file
 # author: Jan-David Quesel
 module Jekyll
@@ -37,10 +36,10 @@ module Jekyll
       FileUtils.mkdir_p(outputdir)
 
       # enter the destination directory
-      p "outputdir = #{outputdir}"
-      p "outputfile = #{outputfile}"
-      p "dir = #{@dir}"
-      p "desc = #{@desc}"
+      # p "outputdir = #{outputdir}"
+      # p "outputfile = #{outputfile}"
+      # p "dir = #{@dir}"
+      # p "desc = #{@desc}"
       Dir.chdir(outputdir) do
       out_file = File.open(outputfile, 'w')
       out_file.puts '<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js" type="text/javascript"></script>'
@@ -75,4 +74,6 @@ module Jekyll
     end
   end
 end
-Liquid::Template.register_tag('gallery', Jekyll::GalleryTag)
+
+# SMH: uncomment to experiment
+# Liquid::Template.register_tag('gallery', Jekyll::GalleryTag)

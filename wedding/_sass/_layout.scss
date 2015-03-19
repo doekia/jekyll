@@ -1,9 +1,9 @@
 .clearfix { @extend %clearfix; }
 
 .askew {
-  -ms-transform: rotate(359deg); /* IE 9 */
-  -webkit-transform: rotate(359deg); /* Chrome, Safari, Opera */
-  transform: rotate(359deg);
+  -ms-transform: rotate(358deg); /* IE 9 */
+  -webkit-transform: rotate(358deg); /* Chrome, Safari, Opera */
+  transform: rotate(358deg);
 }
 
 /**
@@ -178,7 +178,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit 0 ($spacing-unit * 4);
 }
 
 .page-heading {
@@ -253,9 +253,9 @@
 }
 
 /**
- * Pane
+ * Postcard
  */
-#pane {
+#postcard {
     .two-fifths { max-width: 35%; }
     .three-fifths { width: 60%; }
     .left { float: left; }
@@ -264,14 +264,17 @@
     .center { text-align: center; }
 }
 
-
 /**
  * Pane
+ */
+
+/**
+ * Polaroid
  */
 .polaroid {
   background: #FFF;
   padding: 6px;
-  margin: 20px 60px;
+  margin: 40px 60px;
   .inner {
     background: #333;
     padding: 7px;

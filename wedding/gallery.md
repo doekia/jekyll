@@ -6,4 +6,4 @@ permalink: /gallery/
 ---
 
 Coming Soon!
-<!-- {% gallery images test.gal %} -->
+<!-- % gallery images test.gal % -->

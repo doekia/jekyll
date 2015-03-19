@@ -5,7 +5,8 @@
 
 
 
-// Our variables
+$header-font-family: 'Laila', Helvetica, Arial, sans-serif;
+
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
@@ -14,24 +15,14 @@ $base-line-height: 1.5;
 $spacing-unit:     30px;
 
 $text-color:       #FEFEFE;
-// $nav-color:        #950;
 $nav-color:        #444;
 
-// floral ampersand gray:
-// $background-color: #D2D0C5;
-
-// bouquet blue:
-// $background-color: #7191A1;
 $background-color: #CDCDCD;
 $background-image: url("/images/bouquet-bg.png");
-$background-image-pane: url("/images/bouquet-bg-pane.png");
-
-// chalkboard (???):
-// $background-image: url("/images/chalkboard-bg.png");
+$background-image-postcard: url("/images/bouquet-bg-postcard.png");
 
 // bouquet blue:
 $brand-color:      #D0DA72;
-
 
 $grey-color:       #bcca35;
 $grey-color-light: lighten($grey-color, 40%);

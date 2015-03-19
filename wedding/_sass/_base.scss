@@ -32,6 +32,9 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+h1 {
+    font-family: $header-font-family;
+}
 
 
 /**
@@ -189,12 +192,12 @@ pre {
 /**
  * Pane
  */
-#pane {
-    // background-image: $background-image-pane;
+#postcard {
+    // background-image: $background-image-postcard;
     background-color: #6B8D9F;
     background-color: rgba(0, 50, 110, 0.40);
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(750px - (#{$spacing-unit} * 2));
+    max-width:         calc(750px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     border: 15px solid #fff; /* Fall back, not used in fiddle */
@@ -203,6 +206,9 @@ pre {
     padding: $spacing_unit;
 
     a { color: $brand-color; }
+    .invitation {
+        font-family: $header-font-family;
+    }
 }
 
 
