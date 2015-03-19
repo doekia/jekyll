@@ -10,12 +10,6 @@ dl, dd, ol, ul, figure {
 
 .italic { font-style: italic; }
 
-a.rss-subscribe {
-    background-color: rgba(30,50,70, 0.5);
-    border-radius: 10px;
-    padding: 10px;
-}
-
 
 /**
  * Basic styling
@@ -188,30 +182,6 @@ pre {
         padding-left: $spacing-unit / 2;
     }
 }
-
-/**
- * Pane
- */
-#postcard {
-    // background-image: $background-image-postcard;
-    background-color: #6B8D9F;
-    background-color: rgba(0, 50, 110, 0.40);
-    max-width: -webkit-calc(750px - (#{$spacing-unit} * 2));
-    max-width:         calc(750px - (#{$spacing-unit} * 2));
-    margin-right: auto;
-    margin-left: auto;
-    border: 15px solid #fff; /* Fall back, not used in fiddle */
-    border: 15px solid rgba(255, 255, 255, .25);
-    border-radius: 15px;
-    padding: $spacing_unit;
-
-    a { color: $brand-color; }
-    .invitation {
-        font-family: $header-font-family;
-    }
-}
-
-
 
 
 /**

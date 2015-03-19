@@ -1,10 +1,18 @@
 .clearfix { @extend %clearfix; }
 
+.two-fifths { max-width: 35%; }
+.three-fifths { width: 60%; }
+.left { float: left; }
+.right { float: right; }
+.margin-small { margin: 20px; }
+.center { text-align: center; }
+
 .askew {
-  -ms-transform: rotate(358deg); /* IE 9 */
-  -webkit-transform: rotate(358deg); /* Chrome, Safari, Opera */
+  -ms-transform: rotate(358deg);
+  -webkit-transform: rotate(358deg);
   transform: rotate(358deg);
 }
+
 
 /**
  * Site header
@@ -256,17 +264,54 @@
  * Postcard
  */
 #postcard {
-    .two-fifths { max-width: 35%; }
-    .three-fifths { width: 60%; }
-    .left { float: left; }
-    .right { float: right; }
-    .margin-small { margin: 20px; }
-    .center { text-align: center; }
+    max-width: -webkit-calc(750px - (#{$spacing-unit} * 2));
+    max-width:         calc(750px - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    border: 15px solid #fff; /* Fall back, not used in fiddle */
+    border: 15px solid rgba(255, 255, 255, .25);
+    border-radius: 15px;
+    padding: $spacing_unit;
+
+    background-color: #6B8D9F;
+    background-color: rgba(0, 50, 110, 0.40);
+
+    a { color: $brand-color; }
+    .invitation {
+        font-family: $header-font-family;
+    }
 }
 
-/**
- * Pane
- */
+/** Pane */
+#postcard.pane {
+    border: 2px solid #fff;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 0;
+    padding: $spacing_unit;
+
+    background-color: green;
+    background-color: rgba(40, 80, 25, 0.60);
+
+    -webkit-box-shadow: 10px 10px 0px 0px #678;
+    -moz-box-shadow:    10px 10px 0px 0px #678;
+    box-shadow:         10px 10px 0px 0px #678;
+
+    a { color: #DDDD99; }
+    .post-meta { color: #ABC; }
+
+    a.rss-subscribe {
+        background-color: rgba(30,50,70, 0.5);
+        border-radius: 10px;
+        padding: 10px;
+        color: #ccc;
+    }
+}
+
+.shadow {
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+}
 
 /**
  * Polaroid

@@ -3,6 +3,7 @@ layout: page
 title: News
 fa-icon: edit
 permalink: /blog/
+postcard-class: pane
 ---
 
 We'll continue to post updates here, which you can subscribe to below.
