@@ -17,3 +17,21 @@ postcard-class: pane
   </article>
 
 </div>
+
+<hr style="margin: 40px 0 10px;" />
+
+<i class="fa fa-edit"></i> <a class="prev-next-post" href="/news">Back to News</a>
+
+{% if page.previous.url %}
+<br />
+<i class="fa fa-angle-double-left"></i>&nbsp;
+<a class="prev-next-post" href="{{ page.previous.url }}">Previous Post: {{ page.previous.title }}</a>
+{% endif %}
+
+{% if page.next.url %}
+<br />
+<i class="fa fa-angle-double-right"></i>&nbsp;
+<a class="prev-next-post" href="{{ page.next.url }}">Next Post: {{ page.next.title }} </a>
+{% endif %}
+
+</ul>

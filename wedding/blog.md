@@ -2,7 +2,7 @@
 layout: page
 title: News
 fa-icon: edit
-permalink: /blog/
+permalink: /news/
 ---
 
 We'll continue to post updates here, which you can subscribe to below.
@@ -20,10 +20,21 @@ We'll continue to post updates here, which you can subscribe to below.
     {% endfor %}
   </ul>
 
-  <p>
-    <a class="rss-subscribe" target="_blank" href="{{ "/feed.xml" | prepend: site.baseurl }}">
-      <i class="fa fa-fw fa-rss"></i>Subscribe via RSS
-    </a> <a title="What is RSS?" target="_blank" href="http://www.problogger.net/what-is-rss/"><i class="fa fa-fw fa-question-circle"></i></a>
+<hr style="margin-top: 50px;">
+  <p style="margin: 8px 0 0;">
+    Subscribe to receive new posts via
+    <a target="_blank" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+      <i class="fa fa-fw fa-rss"></i>RSS</a>
+      <!-- a title="What is RSS?" target="_blank" href="http://www.problogger.net/what-is-rss/"><i class="fa fa-fw fa-question-circle"></i></a-->
+     or
+    <form method='post' action='http://blogtrottr.com'>
+      Email:
+      <input type='text' name='btr_email' />
+      <input type='hidden' name='btr_url' value='http://steveamandagetmarried.info/feed.xml' />
+      <input type='hidden' name='schedule_type' value='6' />
+      <input type='submit' value='Subscribe' />
+    </form>
+
   </p>
 
 </div>

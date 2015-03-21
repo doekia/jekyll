@@ -5,4 +5,4 @@ fa-icon: heart
 permalink: /about-us/
 ---
 
-TO DO
+Coming Soon!
