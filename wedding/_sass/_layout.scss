@@ -274,7 +274,7 @@
     padding: $spacing_unit;
 
     background-color: #6B8D9F;
-    background-color: rgba(0, 50, 110, 0.40);
+    background-color: rgba(0, 50, 110, 0.50);
 
     a.rss-subscribe {
         background-color: rgba(30,50,70, 0.5);
@@ -334,6 +334,12 @@
   p.caption {
     color: #333;
     margin: 0;
-    font-style: italic;
+    font-family: 'Handlee', cursive;
+    font-size: 18px;
+    font-weight: 600;
   }
+}
+
+.cursive {
+
 }

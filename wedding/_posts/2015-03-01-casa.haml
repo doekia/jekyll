@@ -8,13 +8,10 @@ date:   2015-03-01 23:58:00
 - filenames = Dir.glob('wedding/images/casa/*.jpg').collect { |fn| fn.gsub(/.*\//, '')[0..-5] }
 
 %p
-  This 3BR/2BA was listed on Craigslist for less than 12 hours before we found it.
-  We were lucky to get it, because rentals in this area are scarce. It's in
-  %a{target: '_blank', href: "https://maps.google.com/?q=loc%3A+Belle+Plaine+at+Wolcott+Chicago+IL+US"}
-    North Center,
-  a quiet area in between several north-side neighborhoods, close to the Brown Line, and a short walk to the Metra. We're both excited to move in April!
+  This 3BR/2BA was listed on Craigslist for less than 12 hours before we found it. We were lucky to get it, because rentals in this area are scarce. It's in North Center, a quiet area in between several north-side neighborhoods, close to the Brown Line, and a short walk to the Metra. We're both excited to move in April!
 
-%p Some pics from the listing (not our furniture, but the piano stays!):
+%p
+  Some pics from the listing (not our furniture, but the piano stays!):
 
 %div.center
   - filenames.each do |name|
