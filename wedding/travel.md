@@ -25,7 +25,7 @@ To get around via El trains (other than back and forth to the airport), the [CTA
 
 Don't do it! You don't need it and don't want it.
 
-### <i class="fa fa-hotel" />&nbsp;HOTELS (sorted by distance)
+### <i class="fa fa-hotel" />&nbsp;HOTELS
 
 We'll be staying at Hotel Lincoln, which is across the street from the venue, in order to get ready on the big day. If you want to overpay for a room, you're welcome to do the same! Otherwise, we'd suggest either of the next two, at Michigan and Wacker.
 
@@ -33,7 +33,7 @@ We'll be staying at Hotel Lincoln, which is across the street from the venue, in
 
 * [Club Quarters](http://bit.ly/1xaUn0f), $160/night special right now. Located at Michigan &amp; Wacker in [Streeterville](http://www.thechicagoneighborhoods.com/Streeterville), next to Magnificent Mile and River North neighborhoods. Interesting places to walk around, shop, eat, explore. Right on the Chicago river!
 
-* [River Hotel](http://bit.ly/1xaUucg), $160/night special right now. Same location as Club Quarters.
+* [River Hotel](http://bit.ly/1xaUucg), $160/night special right now. Same location as Club Quarters. And the same address. Same hotel???
 
 * [Holiday Inn, Niles](http://bit.ly/1xaRJrr)
 $150/night by I-94. Listed here for those driving from nearby states. Upside: free parking. Downside: not close to anything, and the only way to get anywhere is to drive, which you really don't want to do.

@@ -310,7 +310,12 @@
     a { color: #DDDD99; }
     .post-meta { color: #ABC; }
 
-
+    .post-footer {
+        font-size: 14px;
+        border-top: 1px solid #EEE;
+        padding: 10px 0 0;
+        margin: 60px 0 0;
+    }
 }
 
 .shadow {

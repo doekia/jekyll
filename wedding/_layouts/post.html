@@ -20,20 +20,21 @@ postcard-class: pane
 
 </div>
 
-<hr style="margin: 40px 0 10px;" />
+<div class="post-footer">
+  <ul class="fa-ul">
+    <li><i class="fa-li fa fa-edit"></i> <a class="prev-next-post" href="/news">Back to News</a></li>
 
-<i class="fa fa-edit"></i> <a class="prev-next-post" href="/news">Back to News</a>
+    {% if page.previous.url %}
+    <li><i class="fa-li fa fa-angle-double-left"></i>
+      <a class="prev-next-post" href="{{ page.previous.url }}">Previous Post: {{ page.previous.title }}</a>
+    </li>
+    {% endif %}
 
-{% if page.previous.url %}
-<br />
-<i class="fa fa-angle-double-left"></i>&nbsp;
-<a class="prev-next-post" href="{{ page.previous.url }}">Previous Post: {{ page.previous.title }}</a>
-{% endif %}
+    {% if page.next.url %}
+    <li><i class="fa-li fa fa-angle-double-right"></i>
+    <a class="prev-next-post" href="{{ page.next.url }}">Next Post: {{ page.next.title }} </a>
+    </li>
+    {% endif %}
 
-{% if page.next.url %}
-<br />
-<i class="fa fa-angle-double-right"></i>&nbsp;
-<a class="prev-next-post" href="{{ page.next.url }}">Next Post: {{ page.next.title }} </a>
-{% endif %}
-
-</ul>
+  </ul>
+ </div>
