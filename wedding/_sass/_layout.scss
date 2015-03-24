@@ -264,8 +264,8 @@
  * Postcard
  */
 #postcard {
-    max-width: -webkit-calc(750px - (#{$spacing-unit} * 2));
-    max-width:         calc(750px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(720px - (#{$spacing-unit} * 2));
+    max-width:         calc(720px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     border: 10px solid #A0B0C0;
