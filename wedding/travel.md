@@ -15,7 +15,7 @@ From O'Hare, you can get hotel shuttles, taxis, or take the "CTA Train to City",
 
 From Midway, take the Orange Line CTA train to the Clark and Lake station.
 
-From Clark and Lake, it's easy to get a taxi, or it's a short and safe walk to Michigan and Wacker if that's where you're staying.
+From Clark and Lake, it's easy to get a taxi, or it's a short and safe walk to nearby hotels (see map below).
 
 ### <i class="fa fa-train" />&nbsp;CTA EL TRAINS
 
@@ -31,27 +31,30 @@ We'll be staying at Hotel Lincoln, which is across the street from the venue, in
 
 * [Hotel Lincoln](http://bit.ly/1xaTOnc), $350/night, across the street from venue, in [Lincoln Park](http://www.timeout.com/chicago/lincoln-park).
 
+* <span style="color: #944;">TBD: in process of blocking off 10 rooms at the Red Roof Inn for ~$160/night</span>
+
 * [Club Quarters](http://bit.ly/1xaUn0f), $160/night special right now. Located at Michigan &amp; Wacker in [Streeterville](http://www.thechicagoneighborhoods.com/Streeterville), next to Magnificent Mile and River North neighborhoods. Interesting places to walk around, shop, eat, explore. Right on the Chicago river!
 
 * [River Hotel](http://bit.ly/1xaUucg), $160/night special right now. Same location as Club Quarters. And the same address. Same hotel???
 
 * There's plenty of [airbnb](https://www.airbnb.com/s/Chicago--IL--United-States?checkin=08%2F27%2F2015&checkout=08%2F30%2F2015&guests=2&room_types%5B%5D=Entire+home%2Fapt&price_max=200&sw_lat=41.88453510883599&sw_lng=-87.6510388633003&ne_lat=41.91206866445559&ne_lng=-87.62601921760938&zoom=15&search_by_map=true&ss_id=qcfcdu2g) properties near the venue, many of which are cheaper than area hotels. Parents of the groom found a nice one on Sedgwick.
 
-* [Holiday Inn, Niles](http://bit.ly/1xaRJrr)
-$150/night by I-94. Listed here for those driving from nearby states. Upside: free parking. Downside: not close to anything, and the only way to get anywhere is to drive, which you really don't want to do.
-
 * [Hilton at O'Hare Airport](http://bit.ly/1xaTy7B)
-Only $110, but an hour from the venue and city, and nothing nearby to do or eat. If you're planning to come all the way to Chicago and see nothing but the venue (sad face!), this is your hotel.
+Only $110, but an hour from the venue and city, and nothing nearby to do or eat. If you're planning to come all the way to Chicago and see nothing but the venue (sad face!), you would still probably enjoy yourself more staying at one of the downtown hotels.
 
-<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zbJpQRh0TMTs.kXbxIPPH0OE0" width="660" height="480"></iframe>
+### <i class="fa fa-map-marker" />&nbsp;MAP
+
+Here's the airports (green), hotels (red), and venue (blue star). Train stations are square, things to do are in gray. Click the icon in the top left to easily select destinations. Click the square icon in the top right for a full-screen view.
+
+<iframe src="https://mapsengine.google.com/map/u/0/embed?mid=zbJpQRh0TMTs.kXbxIPPH0OE0" width="660" height="500"></iframe>
 
 <br />
 
 ### <a name="todo"></a><i class="fa fa-thumbs-up" />&nbsp;THINGS TO DO
 
-You've made the trip; look around a bit! Chicago is a great place to be in the summertime. Check out a [bicycle](https://www.divvybikes.com/) from stations all over the city, explore the 18mi bike path on Lake Michigan, camp out at one of the many [beaches](http://www.chicagotraveler.com/chicago-beaches.htm), roam the [neighborhoods](http://www.chicagomag.com/Chicago-Magazine/Neighborhood-Guides/), or find something [cultural](http://www.chicagoreader.com/chicago/arts-and-culture/Section?oid=939136) to do ([or not](http://www.timeout.com/chicago)). If we weren't busy, we'd likely head to one of the many summer street festivals going on that weekend:
+Chicago is a great place to be in the summertime! Check out a [bicycle](https://www.divvybikes.com/) from stations all over the city and explore the 18mi bike path on Lake Michigan, camp out at one of the many [beaches](http://www.chicagotraveler.com/chicago-beaches.htm), roam the [neighborhoods](http://www.timeout.com/chicago/neighborhoods), take an [architecture cruise](http://www.architecture.org/rivercruise) on the Chicago River, a [walking tour](http://www.insidechicagowalkingtours.com/#!tourcalendar/c127i), or find something [cultural](http://www.chicagoreader.com/chicago/arts-and-culture/Section?oid=939136) to do. If we weren't busy, we'd likely be at one of the many summer street festivals going on that weekend:
 
-* [Old Town Sausage Fest](http://www.sausagekingchicago.com/) (near the venue! [<i class="fa fa-map-marker"></i>](http://bit.ly/1N1Bczd))
+* [Old Town Sausage Fest](http://www.sausagekingchicago.com/) (live music, food, drink)
 * [Bucktown Arts Fest](http://bucktownartsfest.com/history/) (live music, food, drink, lotsa artists booths)
 * [Randolph Street Market](http://www.randolphstreetmarket.com/randolphstreetmarket/)
 * [Chicago Fashion Fest](http://www.chicagofashionfest.com/)
