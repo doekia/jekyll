@@ -24,6 +24,19 @@ body {
     background-image: $background-image;
     background-attachment:fixed;
     -webkit-text-size-adjust: 100%;
+
+
+/*
+    background: $background-image, radial-gradient(#CCC 35%, #888 65%) no-repeat 1px center;
+
+    background: $background-image center center no-repeat; // fallback
+
+    background: $background-image center center no-repeat, -moz-linear-gradient(top, white, black); // FF 3.6+
+    background: $background-image center center no-repeat, -webkit-gradient(linear, 0 0, 0 100%, from(white), to(black)); // Safari 4+, Chrome 2+
+    background: $background-image center center no-repeat, -webkit-linear-gradient(top, white, black); // Safari 5.1+, Chrome 10+
+    background: $background-image center center no-repeat, -o-linear-gradient(top, white, black); // Opera 11.10
+    background: $background-image center center no-repeat, linear-gradient(to bottom, white, black); // Standard, IE10
+*/
 }
 
 h1 {
@@ -215,4 +228,9 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+ul.contact-list a,
+ul.contact-list a:visited {
+    color: black;
 }

@@ -268,13 +268,14 @@
     max-width:         calc(720px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    border: 10px solid #A0B0C0;
-    border: 10px solid rgba(255, 255, 255, .25);
-    border-radius: 10px;
     padding: $spacing_unit;
 
-    background-color: #6B8D9F;
-    background-color: rgba(0, 50, 110, 0.50);
+    background-color: #617467;
+    background-color: rgba(20, 50, 30, 0.6);
+
+    -webkit-box-shadow: 10px 10px 15px 0px rgba(12, 12, 12, 0.5);
+    -moz-box-shadow:    10px 10px 15px 0px rgba(12, 12, 12, 0.5);
+    box-shadow:         10px 10px 15px 0px rgba(12, 12, 12, 0.5);
 
     a.rss-subscribe {
         background-color: rgba(30,50,70, 0.5);
@@ -288,24 +289,19 @@
     }
 }
 
-#postcard.thick-border {
-    border-width: 15px;
-    border-radius: 15px;
-}
 
 /** Pane */
 #postcard.pane {
-    border: 1px solid #fff;
-    border: 1px solid rgba(255, 255, 255, .5);
-    border-radius: 0;
+    border: 5px;
+    border-radius: 15px;
     padding: $spacing_unit;
 
     background-color: #617467;
     background-color: rgba(20, 50, 30, 0.6);
 
-    -webkit-box-shadow: 10px 10px 0px 0px #678;
-    -moz-box-shadow:    10px 10px 0px 0px #678;
-    box-shadow:         10px 10px 0px 0px #678;
+    -webkit-box-shadow: none;
+    -moz-box-shadow:    none;
+    box-shadow:         none;
 
     a { color: #DDDD99; }
     .post-meta { color: #ABC; }
