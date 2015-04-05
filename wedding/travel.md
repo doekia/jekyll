@@ -27,22 +27,16 @@ Don't do it! You don't need it and don't want it.
 
 ### <a name="hotels"></a><i class="fa fa-hotel" />&nbsp;HOTELS
 
-We'll be staying at Hotel Lincoln, which is across the street from the venue, in order to get ready on the big day. If you want to overpay for a room, you're welcome to do the same! Otherwise, we'd suggest either of the next two, at Michigan and Wacker.
+* We have 10 rooms blocked off at the Red Roof Inn for ~$155/night + Insane Chicago Taxes&trade;. It's small but nice, located close to public transportation, a short cab ride from the venue, and in the Magnificent Mile neighborhood, with lots of tall buildings to look at and things to do. Three rooms have a single King bed, seven have 2 double beds. Call 312-787-3580 to reserve, and let them know Hunter/Williams wedding to get the special rate (cheaper than booking [online](http://www.redroofinndowntownchicago.com/)). Any unclaimed rooms will be un-reserved on July 28.
 
-* [Hotel Lincoln](http://bit.ly/1xaTOnc), $350/night, across the street from venue, in [Lincoln Park](http://www.timeout.com/chicago/lincoln-park).
-
-* <span style="color: #944;">TBD: in process of blocking off 10 rooms at the Red Roof Inn for ~$160/night</span>
-
-* [Club Quarters](http://bit.ly/1xaUn0f), $160/night special right now. Located at Michigan &amp; Wacker in [Streeterville](http://www.thechicagoneighborhoods.com/Streeterville), next to Magnificent Mile and River North neighborhoods. Interesting places to walk around, shop, eat, explore. Right on the Chicago river!
-
-* [River Hotel](http://bit.ly/1xaUucg), $160/night special right now. Same location as Club Quarters. And the same address. Same hotel???
+* [Club Quarters](http://bit.ly/1xaUn0f) or  [River Hotel](http://bit.ly/1xaUucg), both $160/night special right now. Located at Michigan &amp; Wacker in [Streeterville](http://www.thechicagoneighborhoods.com/Streeterville), next to Magnificent Mile and River North neighborhoods. Interesting places to walk around, shop, eat, explore. Right on the Chicago river! If you can't get in at the Red Roof, these are good options.
 
 * There's plenty of [airbnb](https://www.airbnb.com/s/Chicago--IL--United-States?checkin=08%2F27%2F2015&checkout=08%2F30%2F2015&guests=2&room_types%5B%5D=Entire+home%2Fapt&price_max=200&sw_lat=41.88453510883599&sw_lng=-87.6510388633003&ne_lat=41.91206866445559&ne_lng=-87.62601921760938&zoom=15&search_by_map=true&ss_id=qcfcdu2g) properties near the venue, many of which are cheaper than area hotels. Parents of the groom found a nice one on Sedgwick.
 
 * [Hilton at O'Hare Airport](http://bit.ly/1xaTy7B)
 Only $110, but an hour from the venue and city, and nothing nearby to do or eat. If you're planning to come all the way to Chicago and see nothing but the venue (sad face!), you would still probably enjoy yourself more staying at one of the downtown hotels.
 
-### <i class="fa fa-map-marker" />&nbsp;MAP
+### <i class="fa fa-map-marker" />&nbsp;POINTS OF INTEREST
 
 Here's the airports (green), hotels (red), and venue (blue star). Train stations are square, things to do are in gray. Click the icon in the top left to easily select destinations. Click the square icon in the top right for a full-screen view.
 

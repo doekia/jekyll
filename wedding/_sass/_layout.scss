@@ -13,6 +13,9 @@
   transform: rotate(358deg);
 }
 
+.small-font { font-size: 12px; }
+.italic { font-style: italics; }
+
 
 /**
  * Site header
@@ -45,6 +48,9 @@
 .home-logo {
     float: left;
     line-height: 60px;
+    a {
+      color: white;
+    }
 }
 
 .site-nav {
@@ -205,7 +211,8 @@
 .post-meta {
     font-size: $small-font-size;
     font-weight: 600;
-    color: $grey-color;
+    /* color: $grey-color; */
+    color: #ABC;
 }
 
 .post-link {
