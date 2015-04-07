@@ -27,7 +27,7 @@ Don't do it! You don't need it and don't want it.
 
 ### <a name="hotels"></a><i class="fa fa-hotel" />&nbsp;HOTELS
 
-* We have 10 rooms blocked off at the Red Roof Inn for ~$155/night + Insane Chicago Taxes&trade;. It's small but nice, located close to public transportation, a short cab ride from the venue, and in the Magnificent Mile neighborhood, with lots of tall buildings to look at and things to do. Three rooms have a single King bed, seven have 2 double beds. Call 312-787-3580 to reserve, and let them know Hunter/Williams wedding to get the special rate (cheaper than booking [online](http://www.redroofinndowntownchicago.com/)). Any unclaimed rooms will be un-reserved on July 28.
+* We have 10 rooms blocked off at the Red Roof Inn for ~$155/night + Insane Chicago Taxes&trade;. It's small but nice, located close to public transportation, a short cab ride from the venue, and in the Magnificent Mile neighborhood, with lots of tall buildings to look at and things to do. Three rooms have a single King bed, seven have 2 double beds. Call 312-787-3580 to reserve, and mention the Hunter/Williams wedding to get the special rate (cheaper than booking [online](http://www.redroofinndowntownchicago.com/)). Any unclaimed rooms will be un-reserved on July 28.
 
 * [Club Quarters](http://bit.ly/1xaUn0f) or  [River Hotel](http://bit.ly/1xaUucg), both $160/night special right now. Located at Michigan &amp; Wacker in [Streeterville](http://www.thechicagoneighborhoods.com/Streeterville), next to Magnificent Mile and River North neighborhoods. Interesting places to walk around, shop, eat, explore. Right on the Chicago river! If you can't get in at the Red Roof, these are good options.
 
